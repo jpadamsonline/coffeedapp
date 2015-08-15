@@ -1,0 +1,16 @@
+GDAL==1.10.0
+itsdangerous==0.24
+Jinja2==2.7.3
+libxml2-python==2.9.1
+MarkupSafe==0.23
+mercurial==2.9.post20140204
+pbr==1.4.0
+Pygments==1.6
+regetron==1.4
+six==1.9.0
+stevedore==1.7.0
+vboxapi==1.0
+virtualenv==12.0.5
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.6.0
+Werkzeug==0.9.6
